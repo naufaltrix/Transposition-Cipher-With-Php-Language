@@ -11,7 +11,7 @@ Transposition ciphers mengatur ulang huruf-huruf dari plaintext tanpa menggantin
 ![Figure 0.1](images/2.png)
 
 ## Menu Dekripsi
-![Figure 0.1](images/1.png)
+![Figure 0.1](images/3.png)
 
 Semoga dapat berguna dan juga dapat belajar scriptnya. ^.^
 
